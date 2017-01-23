@@ -12,8 +12,7 @@
     height: 100vh;
 	background-position-x: 50%;
     background-position-y: 0px;
-    z-index: -10; 
-    opacity: ;
+    z-index: -10;
 }
 
 html, body {
@@ -236,32 +235,32 @@ ul{
 }
 #pic {
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 70px;
 }
 #pic-1{
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 100px;
 }
 #pic-2 {
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 100px;
 }
 #pic-3{
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 100px;
 }
 #pic-4 {
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 100px;
 }
 #pic-5 {
   position: relative;
-  width: 110%;
+  width: 100%;
   padding-top: 100px;
 }
 
