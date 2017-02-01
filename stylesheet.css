@@ -2,15 +2,15 @@
 	
 
 #logo{
-	background-image: url('road-mountains-street-cliff.jpg');
+	  background-image: url('pic/road-mountains-street-cliff.jpg');
     background-size: cover;
     background-position:  center;
     position: relative;
     top: 0;
     bottom: 0;
-	left:0;
+	  left:0;
     height: 100vh;
-	background-position-x: 50%;
+	  background-position-x: 50%;
     background-position-y: 0px;
     z-index: -10;
 }
@@ -95,15 +95,15 @@ html, body {
 	
 }
 .personal-details li{
-	text-align: left;
-	margin:0;
-	padding:0;
-	margin-bottom: 8px;
+	  text-align: left;
+	  margin:0;
+	  padding:0;
+	  margin-bottom: 8px;
     font-size: 18px;
     line-height: 34px;
     font-family: 'Oswald', sans-serif;
     font-weight:normal;
-	padding: 9px 0;
+  	padding: 9px 0;
     border-bottom: 1px solid #999999;
     color: #252525;
 } 
@@ -155,7 +155,7 @@ ul{
 
 #education{
     padding: 110px 0 0 0;
-    background-color: #ccfff5;
+    background-color: #d6d6c2;
 }
 
 .col-lg-3 h1 span small{
@@ -236,7 +236,7 @@ ul{
 #pic {
   position: relative;
   width: 100%;
-  padding-top: 70px;
+  padding-top: 100px;
 }
 #pic-1{
   position: relative;
@@ -316,38 +316,38 @@ ul{
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-#contact{
+#contact-container{
     padding: 90px 0 0px 0;
-    background-image: url(images.jpeg);
+    background-image: url(pic/images.jpeg);
 }
 
-#contact h1{
+#contact-container h1{
     color: #FF3333;  
     margin-bottom: 10px;
     margin-top: 10px;
 }
 
-#contact .row .span12 .headline{
+#contact-container .span12 .headline{
     border-color: #ffffff;
 }
-#contact .fb> i{
+#contact-container .fb> i{
     font-size: 50px;
     margin-left: 50px;
      }
 
-     #contact .gp> i{
+     #contact-container .gp> i{
     font-size: 50px;
     margin-left: 50px;
     color: #dd4b39;
      }
 
-     #contact .tw> i{
+     #contact-container .tw> i{
     font-size: 50px;
     margin-left: 50px;
     color: #00aced;
      }
 
-     #contact .ln> i{
+     #contact-container .ln> i{
     font-size: 50px;
     margin-left: 50px;
     color: #4875B4;
