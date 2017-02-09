@@ -2,7 +2,7 @@
 	
 
 #logo{
-	  background-image: url('pic/road-mountains-street-cliff.jpg');
+	  background-image: url('../pic/road.jpg');
     background-size: cover;
     background-position:  center;
     position: relative;
@@ -318,7 +318,7 @@ ul{
 }
 #contact-container{
     padding: 90px 0 0px 0;
-    background-image: url(pic/images.jpeg);
+    background-image: url(../pic/images.jpeg);
 }
 
 #contact-container h1{
